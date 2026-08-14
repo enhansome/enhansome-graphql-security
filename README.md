@@ -33,11 +33,11 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 ### Continous Security Testing
 
 * [Escape - GraphQL Security](https://escape.tech) - Continuous GraphQL Security Testing for Developers. Find and fix GraphQL security flaws in the CI/CD.
-* [GraphQL Cop](https://github.com/dolevf/graphql-cop) ⭐ 684 | 🐛 4 | 🌐 Python | 📅 2025-11-20 - Utility to run common security tests against GraphQL APIs that can be run inside CI/CD.
+* [GraphQL Cop](https://github.com/dolevf/graphql-cop) ⭐ 685 | 🐛 4 | 🌐 Python | 📅 2025-11-20 - Utility to run common security tests against GraphQL APIs that can be run inside CI/CD.
 
 ### Middlewares
 
-* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 585 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-11 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
+* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 585 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-13 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
 
 ### Security Solutions
 
@@ -50,7 +50,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,022 | 🐛 783 | 🌐 TypeScript | 📅 2026-08-05 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,028 | 🐛 786 | 🌐 TypeScript | 📅 2026-08-05 - Online REST and GraphQL client
 
 ### Self-Discovery
 
@@ -131,4 +131,4 @@ We believe it's time to bring more AI-driven innovation to cybersecurity, and we
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
