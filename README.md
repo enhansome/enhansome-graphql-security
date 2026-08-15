@@ -27,7 +27,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Authentication & Authorization
 
-* [GraphQL Shield](https://github.com/maticzav/graphql-shield) ⭐ 3,578 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-12 - Helps you create a permission layer for your application.
+* [GraphQL Shield](https://github.com/maticzav/graphql-shield) ⭐ 3,578 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-14 - Helps you create a permission layer for your application.
 * [GraphQL Authz](https://github.com/AstrumU/graphql-authz) ⭐ 197 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12 - GraphQL authorization layer
 
 ### Continous Security Testing
@@ -37,7 +37,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Middlewares
 
-* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 585 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-13 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
+* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 585 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-15 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
 
 ### Security Solutions
 
@@ -50,7 +50,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,028 | 🐛 786 | 🌐 TypeScript | 📅 2026-08-05 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,039 | 🐛 786 | 🌐 TypeScript | 📅 2026-08-05 - Online REST and GraphQL client
 
 ### Self-Discovery
 
@@ -58,7 +58,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Visualizers
 
-* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,158 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
+* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,159 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
 * [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,757 | 🐛 138 | 🌐 TypeScript | 📅 2026-06-17 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) ⭐ 264 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-25 - GraphQL schema viewer for endpoints with introspection
 * [CraftQL](https://github.com/yamafaktory/craftql) ⭐ 112 | 🐛 0 | 🌐 Rust | 📅 2023-05-18 - CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file
@@ -67,7 +67,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Discovery
 
-* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,502 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
+* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,503 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
 * [Graphw00f](https://github.com/dolevf/graphw00f) ⭐ 886 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - GraphQL Server Engine Fingerprinting utility.
 * [Graphinder](https://github.com/Escape-Technologies/graphinder) ⭐ 228 | 🐛 6 | 🌐 Python | 📅 2023-05-22 - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 * [Goctopus](https://github.com/Escape-Technologies/goctopus) ⭐ 134 | 🐛 3 | 🌐 Go | 📅 2023-11-21 - a GraphQL endpoint discovery and fingerprinting tool.
@@ -131,4 +131,4 @@ We believe it's time to bring more AI-driven innovation to cybersecurity, and we
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
