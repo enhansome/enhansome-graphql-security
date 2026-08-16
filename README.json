@@ -58,7 +58,7 @@
             "last_commit": "2026-05-12T00:42:34Z",
             "owner": "APIs-guru",
             "repo": "graphql-voyager",
-            "stars": 8159
+            "stars": 8158
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:27:33.970Z",
+    "last_updated": "2026-08-16T15:28:10.574Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
