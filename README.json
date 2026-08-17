@@ -100,7 +100,7 @@
             "last_commit": "2023-05-18T08:02:16Z",
             "owner": "yamafaktory",
             "repo": "craftql",
-            "stars": 112
+            "stars": 113
           }
         }
       ],
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-16T14:55:59Z",
             "owner": "dolevf",
             "repo": "graphw00f",
-            "stars": 886
+            "stars": 888
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:28:10.574Z",
+    "last_updated": "2026-08-17T15:32:23.337Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
