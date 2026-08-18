@@ -72,7 +72,7 @@
             "last_commit": "2026-06-17T13:47:38Z",
             "owner": "graphql-hive",
             "repo": "graphql-inspector",
-            "stars": 1757
+            "stars": 1759
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2025-12-05T10:50:30Z",
             "owner": "nikitastupin",
             "repo": "clairvoyance",
-            "stars": 1503
+            "stars": 1504
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2025-07-01T05:30:19Z",
             "owner": "nicholasaleks",
             "repo": "graphql-threat-matrix",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:32:23.337Z",
+    "last_updated": "2026-08-18T15:37:51.935Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
