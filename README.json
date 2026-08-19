@@ -1,315 +1,326 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphQL Shield",
+              "description": "Helps you create a permission layer for your application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121147554,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T17:45:17Z",
+                "owner": "maticzav",
+                "repo": "graphql-shield",
+                "stars": 3578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL Authz",
+              "description": "GraphQL authorization layer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385019125,
+                "language": "TypeScript",
+                "last_commit": "2024-08-12T16:09:32Z",
+                "owner": "AstrumU",
+                "repo": "graphql-authz",
+                "stars": 197
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication & Authorization"
+        }
+      ],
       "title": "Defensive Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GraphQL Shield",
-          "description": "Helps you create a permission layer for your application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T17:45:17Z",
-            "owner": "maticzav",
-            "repo": "graphql-shield",
-            "stars": 3578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQL Authz",
-          "description": "GraphQL authorization layer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-12T16:09:32Z",
-            "owner": "AstrumU",
-            "repo": "graphql-authz",
-            "stars": 197
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Voyager",
+              "description": "Represent any GraphQL API as an interactive graph.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75088956,
+                "language": "TypeScript",
+                "last_commit": "2026-05-12T00:42:34Z",
+                "owner": "APIs-guru",
+                "repo": "graphql-voyager",
+                "stars": 8159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL Inspector",
+              "description": "Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157776824,
+                "language": "TypeScript",
+                "last_commit": "2026-06-17T13:47:38Z",
+                "owner": "graphql-hive",
+                "repo": "graphql-inspector",
+                "stars": 1759
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL Rover",
+              "description": "GraphQL schema viewer for endpoints with introspection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99534705,
+                "language": "JavaScript",
+                "last_commit": "2023-09-25T12:07:18Z",
+                "owner": "Brbb",
+                "repo": "graphql-rover",
+                "stars": 264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CraftQL",
+              "description": "CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286066773,
+                "language": "Rust",
+                "last_commit": "2023-05-18T08:02:16Z",
+                "owner": "yamafaktory",
+                "repo": "craftql",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualizers"
         }
       ],
-      "title": "Authentication & Authorization"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Neutral Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Voyager",
-          "description": "Represent any GraphQL API as an interactive graph.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-12T00:42:34Z",
-            "owner": "APIs-guru",
-            "repo": "graphql-voyager",
-            "stars": 8158
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Clairvoyance",
+              "description": "Patrial introspection fetcher when introspection is disabled.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306655657,
+                "language": "Python",
+                "last_commit": "2025-12-05T10:50:30Z",
+                "owner": "nikitastupin",
+                "repo": "clairvoyance",
+                "stars": 1504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphw00f",
+              "description": "GraphQL Server Engine Fingerprinting utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399690944,
+                "language": "Python",
+                "last_commit": "2026-05-16T14:55:59Z",
+                "owner": "dolevf",
+                "repo": "graphw00f",
+                "stars": 889
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphinder",
+              "description": "Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484400199,
+                "language": "Python",
+                "last_commit": "2023-05-22T22:01:48Z",
+                "owner": "Escape-Technologies",
+                "repo": "graphinder",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goctopus",
+              "description": "a GraphQL endpoint discovery and fingerprinting tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607326640,
+                "language": "Go",
+                "last_commit": "2023-11-21T10:14:19Z",
+                "owner": "Escape-Technologies",
+                "repo": "goctopus",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShapeShifter",
+              "description": "Schema extraction to JSON file with introspection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206930020,
+                "language": "Python",
+                "last_commit": "2022-03-31T07:08:54Z",
+                "owner": "szski",
+                "repo": "shapeshifter",
+                "stars": 125
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Discovery"
         },
         {
-          "node_type": "item",
-          "title": "GraphQL Inspector",
-          "description": "Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-17T13:47:38Z",
-            "owner": "graphql-hive",
-            "repo": "graphql-inspector",
-            "stars": 1759
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQL Rover",
-          "description": "GraphQL schema viewer for endpoints with introspection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-25T12:07:18Z",
-            "owner": "Brbb",
-            "repo": "graphql-rover",
-            "stars": 264
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CraftQL",
-          "description": "CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-18T08:02:16Z",
-            "owner": "yamafaktory",
-            "repo": "craftql",
-            "stars": 113
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "InQL",
+              "description": "A Burp Extension for GraphQL Security Testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130329493,
+                "language": "Kotlin",
+                "last_commit": "2026-06-17T14:00:52Z",
+                "owner": "doyensec",
+                "repo": "inql",
+                "stars": 1800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQLMap",
+              "description": "A scripting engine to interact with a GraphQL endpoint for pentesting purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193113448,
+                "language": "Python",
+                "last_commit": "2024-03-11T15:46:30Z",
+                "owner": "swisskyrepo",
+                "repo": "GraphQLmap",
+                "stars": 1687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL wordlist",
+              "description": "the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names. It was collected on more than 60k distinct GraphQL schemas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668610931,
+                "language": "TypeScript",
+                "last_commit": "2023-10-03T05:01:17Z",
+                "owner": "Escape-Technologies",
+                "repo": "graphql-wordlist",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BatchQL",
+              "description": "GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401001836,
+                "language": "Python",
+                "last_commit": "2022-12-24T02:18:31Z",
+                "owner": "assetnote",
+                "repo": "batchql",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL Threat Matrix",
+              "description": "GraphQL threat framework to research security gaps in GraphQL implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486799178,
+                "language": null,
+                "last_commit": "2025-07-01T05:30:19Z",
+                "owner": "nicholasaleks",
+                "repo": "graphql-threat-matrix",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrackQL",
+              "description": "GraphQL password brute-force and fuzzing utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509172159,
+                "language": "Python",
+                "last_commit": "2024-08-03T23:34:58Z",
+                "owner": "nicholasaleks",
+                "repo": "CrackQL",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphCrawler",
+              "description": "A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 504669462,
+                "language": "Python",
+                "last_commit": "2024-02-20T22:15:38Z",
+                "owner": "gsmith257-cyber",
+                "repo": "GraphCrawler",
+                "stars": 334
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Exploitation"
         }
       ],
-      "title": "Visualizers"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Offensive Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Clairvoyance",
-          "description": "Patrial introspection fetcher when introspection is disabled.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-05T10:50:30Z",
-            "owner": "nikitastupin",
-            "repo": "clairvoyance",
-            "stars": 1504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphw00f",
-          "description": "GraphQL Server Engine Fingerprinting utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-16T14:55:59Z",
-            "owner": "dolevf",
-            "repo": "graphw00f",
-            "stars": 888
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphinder",
-          "description": "Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-22T22:01:48Z",
-            "owner": "Escape-Technologies",
-            "repo": "graphinder",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Goctopus",
-          "description": "a GraphQL endpoint discovery and fingerprinting tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-11-21T10:14:19Z",
-            "owner": "Escape-Technologies",
-            "repo": "goctopus",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ShapeShifter",
-          "description": "Schema extraction to JSON file with introspection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-31T07:08:54Z",
-            "owner": "szski",
-            "repo": "shapeshifter",
-            "stars": 125
-          }
-        }
-      ],
-      "title": "Discovery"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "InQL",
-          "description": "A Burp Extension for GraphQL Security Testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-17T14:00:52Z",
-            "owner": "doyensec",
-            "repo": "inql",
-            "stars": 1798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQLMap",
-          "description": "A scripting engine to interact with a GraphQL endpoint for pentesting purposes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-11T15:46:30Z",
-            "owner": "swisskyrepo",
-            "repo": "GraphQLmap",
-            "stars": 1687
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQL wordlist",
-          "description": "the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names. It was collected on more than 60k distinct GraphQL schemas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-03T05:01:17Z",
-            "owner": "Escape-Technologies",
-            "repo": "graphql-wordlist",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BatchQL",
-          "description": "GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-24T02:18:31Z",
-            "owner": "assetnote",
-            "repo": "batchql",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQL Threat Matrix",
-          "description": "GraphQL threat framework to research security gaps in GraphQL implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-01T05:30:19Z",
-            "owner": "nicholasaleks",
-            "repo": "graphql-threat-matrix",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrackQL",
-          "description": "GraphQL password brute-force and fuzzing utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-03T23:34:58Z",
-            "owner": "nicholasaleks",
-            "repo": "CrackQL",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphCrawler",
-          "description": "A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-02-20T22:15:38Z",
-            "owner": "gsmith257-cyber",
-            "repo": "GraphCrawler",
-            "stars": 334
-          }
-        }
-      ],
-      "title": "Exploitation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.\nWe will keep some pull requests open if we are not sure whether those libraries are awesome, you could vote for them by adding :+1: to them.\nIf you have any question about this opinionated list, do not hesitate to contact us @escapetechHQ on Twitter or open an issue on GitHub.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "We believe it's time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our Careers page!",
-      "items": [],
-      "title": "🤝 Join our team"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:37:51.935Z",
+    "last_updated": "2026-08-19T12:31:23.090Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
+    "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
     "enhanced_repository_description": null,
