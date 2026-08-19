@@ -50,7 +50,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,056 | 🐛 796 | 🌐 TypeScript | 📅 2026-08-16 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,057 | 🐛 796 | 🌐 TypeScript | 📅 2026-08-16 - Online REST and GraphQL client
 
 ### Self-Discovery
 
@@ -59,7 +59,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 ### Visualizers
 
 * [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,159 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
-* [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,759 | 🐛 138 | 🌐 TypeScript | 📅 2026-06-17 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
+* [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,759 | 🐛 139 | 🌐 TypeScript | 📅 2026-06-17 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) ⭐ 264 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-25 - GraphQL schema viewer for endpoints with introspection
 * [CraftQL](https://github.com/yamafaktory/craftql) ⭐ 113 | 🐛 0 | 🌐 Rust | 📅 2023-05-18 - CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file
 
