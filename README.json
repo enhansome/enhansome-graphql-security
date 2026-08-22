@@ -148,7 +148,7 @@
                 "last_commit": "2026-05-16T14:55:59Z",
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 889
+                "stars": 890
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-06-17T14:00:52Z",
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1800
+                "stars": 1801
               }
             },
             {
@@ -245,7 +245,7 @@
                 "last_commit": "2023-10-03T05:01:17Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphql-wordlist",
-                "stars": 483
+                "stars": 484
               }
             },
             {
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:40:19.107Z",
+    "last_updated": "2026-08-22T15:27:51.344Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
