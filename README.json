@@ -133,7 +133,7 @@
                 "last_commit": "2025-12-05T10:50:30Z",
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1506
+                "stars": 1507
               }
             },
             {
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:27:51.344Z",
+    "last_updated": "2026-08-23T15:28:37.086Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
