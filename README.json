@@ -39,6 +39,50 @@
           "description": null,
           "node_type": "group",
           "title": "Authentication & Authorization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphQL Cop",
+              "description": "Utility to run common security tests against GraphQL APIs that can be run inside CI/CD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456079375,
+                "language": "Python",
+                "last_commit": "2025-11-20T03:59:59Z",
+                "owner": "dolevf",
+                "repo": "graphql-cop",
+                "stars": 687
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Continous Security Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphQL Armor",
+              "description": "Highly customizable security middleware for Apollo GraphQL and Envelop servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518716635,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T10:43:10Z",
+                "owner": "Escape-Technologies",
+                "repo": "graphql-armor",
+                "stars": 586
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Middlewares"
         }
       ],
       "title": "Defensive Security"
@@ -46,6 +90,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hoppscotch",
+              "description": "Online REST and GraphQL client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203587744,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:30:15Z",
+                "owner": "hoppscotch",
+                "repo": "hoppscotch",
+                "stars": 80090
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clients and IDEs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GraphMan",
+              "description": "Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511153960,
+                "language": "TypeScript",
+                "last_commit": "2024-08-26T15:16:43Z",
+                "owner": "Escape-Technologies",
+                "repo": "graphman",
+                "stars": 252
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-Discovery"
+        },
         {
           "children": [
             {
@@ -60,7 +148,7 @@
                 "last_commit": "2026-05-12T00:42:34Z",
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8160
+                "stars": 8161
               }
             },
             {
@@ -305,20 +393,42 @@
                 "last_commit": "2024-02-20T22:15:38Z",
                 "owner": "gsmith257-cyber",
                 "repo": "GraphCrawler",
-                "stars": 334
+                "stars": 333
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Exploitation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Damn Vulnerable GraphQL Application",
+              "description": "An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335754653,
+                "language": "JavaScript",
+                "last_commit": "2025-05-24T16:38:08Z",
+                "owner": "dolevf",
+                "repo": "Damn-Vulnerable-GraphQL-Application",
+                "stars": 1705
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerable Applications"
         }
       ],
       "title": "Offensive Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:28:37.086Z",
+    "last_updated": "2026-08-24T14:25:42.181Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
