@@ -101,7 +101,7 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:30:15Z",
+                "last_commit": "2026-08-24T15:42:31Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
                 "stars": 80090
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:42.181Z",
+    "last_updated": "2026-08-24T15:46:12.429Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",

@@ -47,7 +47,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,090 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-24 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,090 | 🐛 801 | 🌐 TypeScript | 📅 2026-08-24 - Online REST and GraphQL client
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
