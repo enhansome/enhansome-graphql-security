@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-24T23:54:51Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
-                "stars": 586
+                "stars": 587
               }
             }
           ],
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:33:02Z",
+                "last_commit": "2026-08-25T12:57:51Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80093
+                "stars": 80096
               }
             }
           ],
@@ -148,7 +148,7 @@
                 "last_commit": "2026-05-12T00:42:34Z",
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8161
+                "stars": 8160
               }
             },
             {
@@ -163,7 +163,7 @@
                 "last_commit": "2026-08-20T14:06:31Z",
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1759
+                "stars": 1760
               }
             },
             {
@@ -221,7 +221,7 @@
                 "last_commit": "2025-12-05T10:50:30Z",
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1507
+                "stars": 1506
               }
             },
             {
@@ -236,7 +236,7 @@
                 "last_commit": "2026-05-16T14:55:59Z",
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 890
+                "stars": 891
               }
             },
             {
@@ -281,7 +281,7 @@
                 "last_commit": "2022-03-31T07:08:54Z",
                 "owner": "szski",
                 "repo": "shapeshifter",
-                "stars": 125
+                "stars": 126
               }
             }
           ],
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:37.645Z",
+    "last_updated": "2026-08-25T15:50:52.055Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",

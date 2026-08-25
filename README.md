@@ -37,7 +37,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Middlewares
 
-* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 586 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-24 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
+* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 587 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-24 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
 
 ### Security Solutions
 
@@ -47,7 +47,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,093 | 🐛 802 | 🌐 TypeScript | 📅 2026-08-24 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,096 | 🐛 801 | 🌐 TypeScript | 📅 2026-08-25 - Online REST and GraphQL client
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
@@ -58,8 +58,8 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Visualizers
 
-* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,161 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
-* [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,759 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-20 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
+* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,160 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
+* [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,760 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-20 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) ⭐ 264 | 🐛 9 | 🌐 JavaScript | 📅 2023-09-25 - GraphQL schema viewer for endpoints with introspection
 * [CraftQL](https://github.com/yamafaktory/craftql) ⭐ 113 | 🐛 0 | 🌐 Rust | 📅 2023-05-18 - CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file
 
@@ -67,11 +67,11 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Discovery
 
-* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,507 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
-* [Graphw00f](https://github.com/dolevf/graphw00f) ⭐ 890 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - GraphQL Server Engine Fingerprinting utility.
+* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,506 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
+* [Graphw00f](https://github.com/dolevf/graphw00f) ⭐ 891 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - GraphQL Server Engine Fingerprinting utility.
 * [Graphinder](https://github.com/Escape-Technologies/graphinder) ⭐ 228 | 🐛 6 | 🌐 Python | 📅 2023-05-22 - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 * [Goctopus](https://github.com/Escape-Technologies/goctopus) ⭐ 134 | 🐛 3 | 🌐 Go | 📅 2023-11-21 - a GraphQL endpoint discovery and fingerprinting tool.
-* [ShapeShifter](https://github.com/szski/shapeshifter) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-03-31 - Schema extraction to JSON file with introspection.
+* [ShapeShifter](https://github.com/szski/shapeshifter) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2022-03-31 - Schema extraction to JSON file with introspection.
 * [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
 
 ### Exploitation
