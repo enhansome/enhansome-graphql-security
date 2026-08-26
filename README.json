@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 121147554,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T17:45:17Z",
+                "last_commit": "2026-08-26T12:55:38Z",
                 "owner": "maticzav",
                 "repo": "graphql-shield",
                 "stars": 3578
@@ -73,7 +73,7 @@
                 "archived": false,
                 "id": 518716635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:54:51Z",
+                "last_commit": "2026-08-25T19:57:46Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
                 "stars": 587
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:57:51Z",
+                "last_commit": "2026-08-26T14:31:15Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80096
+                "stars": 80100
               }
             }
           ],
@@ -318,7 +318,7 @@
                 "last_commit": "2024-03-11T15:46:30Z",
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1687
+                "stars": 1688
               }
             },
             {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:50:52.055Z",
+    "last_updated": "2026-08-26T16:23:20.776Z",
     "original_repository": "Escape-Technologies/awesome-graphql-security",
     "original_repository_id": 499765079,
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
