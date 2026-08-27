@@ -54,7 +54,7 @@
                 "last_commit": "2025-11-20T03:59:59Z",
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 687
+                "stars": 688
               }
             }
           ],
@@ -73,7 +73,7 @@
                 "archived": false,
                 "id": 518716635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T19:57:46Z",
+                "last_commit": "2026-08-27T00:53:56Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
                 "stars": 587
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:31:15Z",
+                "last_commit": "2026-08-27T11:29:09Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80100
+                "stars": 80103
               }
             }
           ],
@@ -428,9 +428,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:23:20.776Z",
-    "original_repository": "Escape-Technologies/awesome-graphql-security",
-    "original_repository_id": 499765079,
+    "last_updated": "2026-08-27T11:45:22.608Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 499765079,
+      "language": null,
+      "last_commit": "2026-07-16T07:59:08Z",
+      "owner": "Escape-Technologies",
+      "repo": "awesome-graphql-security",
+      "stars": 397
+    },
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
     "enhanced_repository_description": null,
