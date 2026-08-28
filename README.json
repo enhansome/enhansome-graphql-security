@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T12:55:38Z",
                 "owner": "maticzav",
                 "repo": "graphql-shield",
-                "stars": 3578
-              }
+                "stars": 3579
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "AstrumU",
                 "repo": "graphql-authz",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "dolevf",
                 "repo": "graphql-cop",
                 "stars": 688
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -77,7 +80,8 @@
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
                 "stars": 587
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -101,11 +105,12 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:30:52Z",
+                "last_commit": "2026-08-28T14:30:09Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80104
-              }
+                "stars": 80111
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -126,8 +131,9 @@
                 "last_commit": "2024-08-26T15:16:43Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphman",
-                "stars": 252
-              }
+                "stars": 253
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -149,7 +155,8 @@
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
                 "stars": 8159
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -164,7 +171,8 @@
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1760
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -179,7 +187,8 @@
                 "owner": "Brbb",
                 "repo": "graphql-rover",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -194,7 +203,8 @@
                 "owner": "yamafaktory",
                 "repo": "craftql",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -222,7 +232,8 @@
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
                 "stars": 1506
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -236,8 +247,9 @@
                 "last_commit": "2026-05-16T14:55:59Z",
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 892
-              }
+                "stars": 894
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -252,7 +264,8 @@
                 "owner": "Escape-Technologies",
                 "repo": "graphinder",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -267,7 +280,8 @@
                 "owner": "Escape-Technologies",
                 "repo": "goctopus",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -282,7 +296,8 @@
                 "owner": "szski",
                 "repo": "shapeshifter",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -303,8 +318,9 @@
                 "last_commit": "2026-06-17T14:00:52Z",
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1801
-              }
+                "stars": 1802
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -319,7 +335,8 @@
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
                 "stars": 1688
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -334,7 +351,8 @@
                 "owner": "Escape-Technologies",
                 "repo": "graphql-wordlist",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -349,7 +367,8 @@
                 "owner": "assetnote",
                 "repo": "batchql",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -364,7 +383,8 @@
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -379,7 +399,8 @@
                 "owner": "nicholasaleks",
                 "repo": "CrackQL",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             },
             {
               "node_type": "item",
@@ -394,7 +415,8 @@
                 "owner": "gsmith257-cyber",
                 "repo": "GraphCrawler",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -416,7 +438,8 @@
                 "owner": "dolevf",
                 "repo": "Damn-Vulnerable-GraphQL-Application",
                 "stars": 1705
-              }
+              },
+              "first_seen": "2026-08-28T23:58:51.904Z"
             }
           ],
           "description": null,
@@ -428,7 +451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:19:57.844Z",
+    "last_updated": "2026-08-28T23:58:51.904Z",
     "original_repository_info": {
       "archived": false,
       "id": 499765079,
