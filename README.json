@@ -73,7 +73,7 @@
                 "archived": false,
                 "id": 518716635,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T00:53:56Z",
+                "last_commit": "2026-08-27T22:04:32Z",
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
                 "stars": 587
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 203587744,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:29:09Z",
+                "last_commit": "2026-08-27T18:30:52Z",
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80103
+                "stars": 80104
               }
             }
           ],
@@ -148,7 +148,7 @@
                 "last_commit": "2026-05-12T00:42:34Z",
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8160
+                "stars": 8159
               }
             },
             {
@@ -236,7 +236,7 @@
                 "last_commit": "2026-05-16T14:55:59Z",
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 891
+                "stars": 892
               }
             },
             {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:22.608Z",
+    "last_updated": "2026-08-28T00:19:57.844Z",
     "original_repository_info": {
       "archived": false,
       "id": 499765079,
