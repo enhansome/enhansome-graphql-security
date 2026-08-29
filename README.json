@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛡 A GraphQL tool to ease the creation of permission layer.",
+                "homepage": "https://graphql-shield.com",
                 "id": 121147554,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:55:38Z",
+                "open_issues": 107,
                 "owner": "maticzav",
                 "repo": "graphql-shield",
-                "stars": 3579
+                "stars": 3579,
+                "topics": [
+                  "apollo",
+                  "graphql",
+                  "graphql-yoga",
+                  "hacktoberfest",
+                  "permissions",
+                  "server",
+                  "shield"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL authorization layer",
+                "homepage": null,
                 "id": 385019125,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-12T16:09:32Z",
+                "open_issues": 24,
                 "owner": "AstrumU",
                 "repo": "graphql-authz",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -51,12 +69,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security Auditor Utility for GraphQL APIs",
+                "homepage": null,
                 "id": 456079375,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-20T03:59:59Z",
+                "open_issues": 4,
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 688
+                "stars": 688,
+                "topics": [
+                  "auditing",
+                  "blue-team",
+                  "graphql",
+                  "hacking",
+                  "hardening",
+                  "penetration-testing",
+                  "red-team",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -74,12 +106,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛡️ The missing GraphQL security security layer for Apollo GraphQL and Yoga / Envelop servers 🛡️",
+                "homepage": "https://escape.tech/graphql-armor/docs/getting-started",
                 "id": 518716635,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:04:32Z",
+                "open_issues": 38,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
-                "stars": 587
+                "stars": 587,
+                "topics": [
+                  "apollo",
+                  "apollo-server",
+                  "cybersecurity",
+                  "envelop",
+                  "graphql",
+                  "hacktoberfest",
+                  "middleware",
+                  "security",
+                  "security-tools",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -103,12 +151,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+                "homepage": "https://hoppscotch.io",
                 "id": 203587744,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:30:09Z",
+                "open_issues": 804,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80111
+                "stars": 80113,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-rest",
+                  "api-testing",
+                  "developer-tools",
+                  "graphql",
+                  "http",
+                  "http-client",
+                  "pwa",
+                  "rest",
+                  "rest-api",
+                  "spa",
+                  "testing",
+                  "testing-tools",
+                  "tools",
+                  "vue",
+                  "vuejs",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -126,12 +198,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.",
+                "homepage": null,
                 "id": 511153960,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-26T15:16:43Z",
+                "open_issues": 7,
                 "owner": "Escape-Technologies",
                 "repo": "graphman",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "api",
+                  "deno",
+                  "escape",
+                  "graphql",
+                  "graphql-tools",
+                  "insomnia",
+                  "postman",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -149,12 +235,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛰️ Represent any GraphQL API as an interactive graph",
+                "homepage": "https://apis.guru/graphql-voyager/",
                 "id": 75088956,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-12T00:42:34Z",
+                "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8159
+                "stars": 8159,
+                "topics": [
+                  "api-documentation",
+                  "graphql",
+                  "graphql-tools",
+                  "graphviz",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -165,12 +262,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage",
+                "homepage": "https://the-guild.dev/graphql/inspector",
                 "id": 157776824,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T14:06:31Z",
+                "open_issues": 139,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1760
+                "stars": 1760,
+                "topics": [
+                  "api",
+                  "graphql",
+                  "javascript",
+                  "monitoring",
+                  "probot-app",
+                  "the-guild",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -181,12 +291,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: GraphQL + Vue.js + D3.js schema viewer, powered by introspection.",
+                "homepage": null,
                 "id": 99534705,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-25T12:07:18Z",
+                "open_issues": 9,
                 "owner": "Brbb",
                 "repo": "graphql-rover",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "d3js",
+                  "dagre",
+                  "graphql",
+                  "introspection",
+                  "schema",
+                  "viewer",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -197,12 +320,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format",
+                "homepage": null,
                 "id": 286066773,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-05-18T08:02:16Z",
+                "open_issues": 0,
                 "owner": "yamafaktory",
                 "repo": "craftql",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "cli",
+                  "devops",
+                  "graph",
+                  "graphql",
+                  "graphviz",
+                  "graphviz-dot",
+                  "rust",
+                  "rustlang",
+                  "schema",
+                  "schemas",
+                  "terminal",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -226,12 +367,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Obtain GraphQL API schema even if the introspection is disabled",
+                "homepage": null,
                 "id": 306655657,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T10:50:30Z",
+                "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1506
+                "stars": 1506,
+                "topics": [
+                  "bug-bounty",
+                  "graphql",
+                  "penetration-testing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -242,12 +393,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.",
+                "homepage": null,
                 "id": 399690944,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-16T14:55:59Z",
+                "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 894
+                "stars": 894,
+                "topics": [
+                  "enumeration",
+                  "fingerprinting",
+                  "graphql",
+                  "information-gathering",
+                  "penetration-testing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -258,12 +421,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️",
+                "homepage": "https://escape.tech",
                 "id": 484400199,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-22T22:01:48Z",
+                "open_issues": 6,
                 "owner": "Escape-Technologies",
                 "repo": "graphinder",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "bugbounty",
+                  "finder",
+                  "graphql",
+                  "osint",
+                  "reconnaissance",
+                  "security",
+                  "spider",
+                  "subdomain-enumeration",
+                  "subdomain-scanner"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -274,12 +452,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast GraphQL discovery & fingerprinting toolbox.",
+                "homepage": null,
                 "id": 607326640,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-11-21T10:14:19Z",
+                "open_issues": 3,
                 "owner": "Escape-Technologies",
                 "repo": "goctopus",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "discovery",
+                  "fingerprinting",
+                  "graphql",
+                  "graphql-tools",
+                  "pentesting"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -290,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL security testing tool",
+                "homepage": null,
                 "id": 206930020,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-31T07:08:54Z",
+                "open_issues": 3,
                 "owner": "szski",
                 "repo": "shapeshifter",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -313,12 +507,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.",
+                "homepage": "https://doyensec.com/",
                 "id": 130329493,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-17T14:00:52Z",
+                "open_issues": 30,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1802
+                "stars": 1802,
+                "topics": [
+                  "api-documentation-tool",
+                  "bugbounty",
+                  "bugbounty-tool",
+                  "burp-extensions",
+                  "burpsuite",
+                  "graphql",
+                  "graphql-security",
+                  "penetration-testing",
+                  "security-audit",
+                  "security-scanner",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -329,12 +540,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)",
+                "homepage": null,
                 "id": 193113448,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-11T15:46:30Z",
+                "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1688
+                "stars": 1688,
+                "topics": [
+                  "capture-the-flag",
+                  "ctf",
+                  "fuzz",
+                  "graphql",
+                  "graphql-injection",
+                  "hacktoberfest",
+                  "nosql-injection",
+                  "pentest",
+                  "sql-injection"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -345,12 +571,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.",
+                "homepage": null,
                 "id": 668610931,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-10-03T05:01:17Z",
+                "open_issues": 1,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-wordlist",
-                "stars": 484
+                "stars": 484,
+                "topics": [
+                  "graphql",
+                  "graphql-schema",
+                  "vulnerability-detection",
+                  "wordlist",
+                  "wordlists"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -361,12 +598,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations",
+                "homepage": "https://blog.assetnote.io/2021/08/29/exploiting-graphql/",
                 "id": 401001836,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-24T02:18:31Z",
+                "open_issues": 5,
                 "owner": "assetnote",
                 "repo": "batchql",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "batch",
+                  "exploit",
+                  "graphql"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -377,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL threat framework used by security professionals to research security gaps in GraphQL implementations",
+                "homepage": null,
                 "id": 486799178,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-01T05:30:19Z",
+                "open_issues": 9,
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -393,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CrackQL is a GraphQL password brute-force and fuzzing utility.",
+                "homepage": null,
                 "id": 509172159,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-03T23:34:58Z",
+                "open_issues": 0,
                 "owner": "nicholasaleks",
                 "repo": "CrackQL",
-                "stars": 350
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             },
@@ -409,12 +665,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GraphQL automated security testing toolkit",
+                "homepage": null,
                 "id": 504669462,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-20T22:15:38Z",
+                "open_issues": 0,
                 "owner": "gsmith257-cyber",
                 "repo": "GraphCrawler",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "api",
+                  "api-hacking",
+                  "automated-testing",
+                  "cybersecurity",
+                  "graphql",
+                  "graphql-api",
+                  "graphql-security",
+                  "pentesting"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -432,12 +702,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.",
+                "homepage": null,
                 "id": 335754653,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-24T16:38:08Z",
+                "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "Damn-Vulnerable-GraphQL-Application",
-                "stars": 1705
+                "stars": 1705,
+                "topics": [
+                  "damn-vulnerable",
+                  "damn-vulnerable-web-application",
+                  "exploitation",
+                  "graphql",
+                  "graphql-security",
+                  "penetration-testing",
+                  "security",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
             }
@@ -451,15 +735,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:58:51.904Z",
+    "last_updated": "2026-08-29T04:44:37.334Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
+      "homepage": null,
       "id": 499765079,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-16T07:59:08Z",
+      "open_issues": 2,
       "owner": "Escape-Technologies",
       "repo": "awesome-graphql-security",
-      "stars": 397
+      "stars": 397,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "graphql",
+        "security"
+      ]
     },
     "original_repository_sha": "5964152423fa9b00263e2c6429552a5d3776c466",
     "enhanced_repository": "enhansome/enhansome-graphql-security",
