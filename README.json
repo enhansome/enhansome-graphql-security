@@ -156,11 +156,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:30:09Z",
-                "open_issues": 806,
+                "last_commit": "2026-08-31T14:40:50Z",
+                "open_issues": 805,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80119,
+                "stars": 80128,
                 "topics": [
                   "api",
                   "api-client",
@@ -271,7 +271,7 @@
                 "open_issues": 139,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": [
                   "api",
                   "graphql",
@@ -376,7 +376,7 @@
                 "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": [
                   "bug-bounty",
                   "graphql",
@@ -513,10 +513,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-17T14:00:52Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "api-documentation-tool",
                   "bugbounty",
@@ -549,7 +549,7 @@
                 "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": [
                   "capture-the-flag",
                   "ctf",
@@ -632,7 +632,7 @@
                 "open_issues": 9,
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
-                "stars": 369,
+                "stars": 370,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
@@ -711,7 +711,7 @@
                 "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "Damn-Vulnerable-GraphQL-Application",
-                "stars": 1706,
+                "stars": 1707,
                 "topics": [
                   "damn-vulnerable",
                   "damn-vulnerable-web-application",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:32:19.590Z",
+    "last_updated": "2026-08-31T20:44:37.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
