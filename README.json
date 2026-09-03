@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:18:53Z",
+                "last_commit": "2026-09-02T19:39:50Z",
                 "open_issues": 38,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -157,10 +157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-31T14:40:50Z",
-                "open_issues": 808,
+                "open_issues": 809,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80163,
+                "stars": 80185,
                 "topics": [
                   "api",
                   "api-client",
@@ -244,7 +244,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8161,
+                "stars": 8162,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -376,7 +376,7 @@
                 "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": [
                   "bug-bounty",
                   "graphql",
@@ -402,7 +402,7 @@
                 "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "enumeration",
                   "fingerprinting",
@@ -549,7 +549,7 @@
                 "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1689,
+                "stars": 1688,
                 "topics": [
                   "capture-the-flag",
                   "ctf",
@@ -580,7 +580,7 @@
                 "open_issues": 1,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-wordlist",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "graphql",
                   "graphql-schema",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:30:52.197Z",
+    "last_updated": "2026-09-03T18:27:06.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
