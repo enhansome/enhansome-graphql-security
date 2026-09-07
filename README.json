@@ -21,7 +21,7 @@
                 "open_issues": 108,
                 "owner": "maticzav",
                 "repo": "graphql-shield",
-                "stars": 3579,
+                "stars": 3577,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T15:59:26Z",
+                "last_commit": "2026-09-07T13:27:59Z",
                 "open_issues": 38,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -160,7 +160,7 @@
                 "open_issues": 812,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80223,
+                "stars": 80236,
                 "topics": [
                   "api",
                   "api-client",
@@ -244,7 +244,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8164,
+                "stars": 8165,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -512,8 +512,8 @@
                 "id": 130329493,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-17T14:00:52Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-07T14:25:13Z",
+                "open_issues": 31,
                 "owner": "doyensec",
                 "repo": "inql",
                 "stars": 1806,
@@ -549,7 +549,7 @@
                 "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1689,
+                "stars": 1690,
                 "topics": [
                   "capture-the-flag",
                   "ctf",
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:34:36.969Z",
+    "last_updated": "2026-09-07T19:04:21.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
