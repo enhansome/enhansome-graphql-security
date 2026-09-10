@@ -78,7 +78,7 @@
                 "open_issues": 4,
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 689,
+                "stars": 690,
                 "topics": [
                   "auditing",
                   "blue-team",
@@ -111,12 +111,13 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T17:44:31Z",
+                "last_commit": "2026-09-10T13:35:46Z",
                 "open_issues": 38,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
                 "stars": 587,
                 "topics": [
+                  "2022",
                   "apollo",
                   "apollo-server",
                   "cybersecurity",
@@ -156,11 +157,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T23:35:12Z",
+                "last_commit": "2026-09-10T16:25:48Z",
                 "open_issues": 819,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80259,
+                "stars": 80266,
                 "topics": [
                   "api",
                   "api-client",
@@ -209,6 +210,7 @@
                 "repo": "graphman",
                 "stars": 253,
                 "topics": [
+                  "2022",
                   "api",
                   "deno",
                   "escape",
@@ -267,8 +269,8 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T12:11:30Z",
-                "open_issues": 140,
+                "last_commit": "2026-09-09T18:41:36Z",
+                "open_issues": 139,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1767,
@@ -432,6 +434,7 @@
                 "repo": "graphinder",
                 "stars": 229,
                 "topics": [
+                  "2022",
                   "bugbounty",
                   "finder",
                   "graphql",
@@ -463,6 +466,7 @@
                 "repo": "goctopus",
                 "stars": 135,
                 "topics": [
+                  "2023",
                   "discovery",
                   "fingerprinting",
                   "graphql",
@@ -516,7 +520,7 @@
                 "open_issues": 29,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "api-documentation-tool",
                   "bugbounty",
@@ -582,6 +586,7 @@
                 "repo": "graphql-wordlist",
                 "stars": 485,
                 "topics": [
+                  "2023",
                   "graphql",
                   "graphql-schema",
                   "vulnerability-detection",
@@ -711,7 +716,7 @@
                 "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "Damn-Vulnerable-GraphQL-Application",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": [
                   "damn-vulnerable",
                   "damn-vulnerable-web-application",
@@ -735,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:26:54.056Z",
+    "last_updated": "2026-09-10T18:15:48.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
@@ -749,6 +754,7 @@
       "repo": "awesome-graphql-security",
       "stars": 397,
       "topics": [
+        "2022",
         "awesome",
         "awesome-list",
         "graphql",
