@@ -78,7 +78,7 @@
                 "open_issues": 4,
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 690,
+                "stars": 692,
                 "topics": [
                   "auditing",
                   "blue-team",
@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T14:47:05Z",
+                "last_commit": "2026-09-16T09:16:24Z",
                 "open_issues": 39,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -157,11 +157,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T06:26:28Z",
-                "open_issues": 822,
+                "last_commit": "2026-09-16T15:34:42Z",
+                "open_issues": 825,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80310,
+                "stars": 80322,
                 "topics": [
                   "api",
                   "api-client",
@@ -270,7 +270,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T18:41:36Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1767,
@@ -404,7 +404,7 @@
                 "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "graphw00f",
-                "stars": 900,
+                "stars": 901,
                 "topics": [
                   "enumeration",
                   "fingerprinting",
@@ -520,7 +520,7 @@
                 "open_issues": 29,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "api-documentation-tool",
                   "bugbounty",
@@ -553,7 +553,7 @@
                 "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "capture-the-flag",
                   "ctf",
@@ -637,7 +637,7 @@
                 "open_issues": 9,
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:50:37.797Z",
+    "last_updated": "2026-09-16T18:47:12.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
