@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T17:50:41Z",
+                "last_commit": "2026-09-20T13:39:17Z",
                 "open_issues": 40,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -157,11 +157,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T15:34:42Z",
-                "open_issues": 826,
+                "last_commit": "2026-09-20T15:18:13Z",
+                "open_issues": 827,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80355,
+                "stars": 80424,
                 "topics": [
                   "api",
                   "api-client",
@@ -378,7 +378,7 @@
                 "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1521,
+                "stars": 1522,
                 "topics": [
                   "bug-bounty",
                   "graphql",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:54:05.806Z",
+    "last_updated": "2026-09-20T18:09:20.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
