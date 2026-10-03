@@ -21,7 +21,7 @@
                 "open_issues": 108,
                 "owner": "maticzav",
                 "repo": "graphql-shield",
-                "stars": 3576,
+                "stars": 3575,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:43:22Z",
+                "last_commit": "2026-10-03T17:58:51Z",
                 "open_issues": 40,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -158,7 +158,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T12:26:26Z",
-                "open_issues": 844,
+                "open_issues": 845,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
                 "stars": 80562,
@@ -269,8 +269,8 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:33:42Z",
-                "open_issues": 133,
+                "last_commit": "2026-10-03T13:53:15Z",
+                "open_issues": 134,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1768,
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:39.750Z",
+    "last_updated": "2026-10-03T18:37:43.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
