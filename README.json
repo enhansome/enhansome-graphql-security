@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T13:20:57Z",
+                "last_commit": "2026-10-12T11:18:09Z",
                 "open_issues": 40,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -157,11 +157,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T05:46:25Z",
-                "open_issues": 849,
+                "last_commit": "2026-10-12T04:41:25Z",
+                "open_issues": 852,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80593,
+                "stars": 80597,
                 "topics": [
                   "api",
                   "api-client",
@@ -246,7 +246,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8169,
+                "stars": 8170,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -269,7 +269,7 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:15:29Z",
+                "last_commit": "2026-10-12T08:58:39Z",
                 "open_issues": 135,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
@@ -378,7 +378,7 @@
                 "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "bug-bounty",
                   "graphql",
@@ -520,7 +520,7 @@
                 "open_issues": 16,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "api-documentation-tool",
                   "bugbounty",
@@ -658,7 +658,7 @@
                 "open_issues": 0,
                 "owner": "nicholasaleks",
                 "repo": "CrackQL",
-                "stars": 353,
+                "stars": 352,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:26:22.112Z",
+    "last_updated": "2026-10-12T22:27:17.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
