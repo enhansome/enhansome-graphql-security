@@ -78,7 +78,7 @@
                 "open_issues": 4,
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 695,
+                "stars": 694,
                 "topics": [
                   "auditing",
                   "blue-team",
@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T17:36:23Z",
+                "last_commit": "2026-10-16T18:25:12Z",
                 "open_issues": 40,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -158,10 +158,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-12T04:41:25Z",
-                "open_issues": 858,
+                "open_issues": 859,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80633,
+                "stars": 80635,
                 "topics": [
                   "api",
                   "api-client",
@@ -246,7 +246,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8170,
+                "stars": 8169,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -269,7 +269,7 @@
                 "id": 157776824,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:23:22Z",
+                "last_commit": "2026-10-16T11:22:40Z",
                 "open_issues": 133,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
@@ -553,7 +553,7 @@
                 "open_issues": 20,
                 "owner": "swisskyrepo",
                 "repo": "GraphQLmap",
-                "stars": 1696,
+                "stars": 1695,
                 "topics": [
                   "capture-the-flag",
                   "ctf",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:59:21.115Z",
+    "last_updated": "2026-10-16T18:43:31.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
