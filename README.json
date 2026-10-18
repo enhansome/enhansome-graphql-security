@@ -161,7 +161,7 @@
                 "open_issues": 859,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80638,
+                "stars": 80648,
                 "topics": [
                   "api",
                   "api-client",
@@ -520,7 +520,7 @@
                 "open_issues": 19,
                 "owner": "doyensec",
                 "repo": "inql",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "api-documentation-tool",
                   "bugbounty",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:49:23.475Z",
+    "last_updated": "2026-10-18T17:57:44.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
