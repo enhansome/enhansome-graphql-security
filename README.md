@@ -27,7 +27,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Authentication & Authorization
 
-* [GraphQL Shield](https://github.com/maticzav/graphql-shield) ⭐ 3,577 | 🐛 109 | 🌐 TypeScript | 📅 2026-10-20 - Helps you create a permission layer for your application.
+* [GraphQL Shield](https://github.com/maticzav/graphql-shield) ⭐ 3,578 | 🐛 109 | 🌐 TypeScript | 📅 2026-10-22 - Helps you create a permission layer for your application.
 * [GraphQL Authz](https://github.com/AstrumU/graphql-authz) ⭐ 198 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12 - GraphQL authorization layer
 
 ### Continous Security Testing
@@ -37,7 +37,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Middlewares
 
-* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 588 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-21 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
+* [GraphQL Armor](https://github.com/Escape-Technologies/graphql-armor) ⭐ 588 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-22 - Highly customizable security middleware for Apollo GraphQL and Envelop servers.
 
 ### Security Solutions
 
@@ -47,7 +47,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,672 | 🐛 858 | 🌐 TypeScript | 📅 2026-10-20 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,678 | 🐛 860 | 🌐 TypeScript | 📅 2026-10-22 - Online REST and GraphQL client
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
@@ -58,7 +58,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Visualizers
 
-* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,170 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
+* [Voyager](https://github.com/IvanGoncharov/graphql-voyager) ⭐ 8,169 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12 - Represent any GraphQL API as an interactive graph.
 * [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) ⭐ 1,767 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-20 – Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) ⭐ 263 | 🐛 8 | 🌐 JavaScript | 📅 2023-09-25 - GraphQL schema viewer for endpoints with introspection
 * [CraftQL](https://github.com/yamafaktory/craftql) ⭐ 112 | 🐛 0 | 🌐 Rust | 📅 2023-05-18 - CLI GraphQL schema viewer, view schema diagram on the terminal or generate graphviz .dot format file
@@ -76,12 +76,12 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Exploitation
 
-* [InQL](https://github.com/doyensec/inql) ⭐ 1,813 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-19 - A Burp Extension for GraphQL Security Testing.
+* [InQL](https://github.com/doyensec/inql) ⭐ 1,812 | 🐛 21 | 🌐 Kotlin | 📅 2026-10-22 - A Burp Extension for GraphQL Security Testing.
 * [GraphQLMap](https://github.com/swisskyrepo/GraphQLmap) ⭐ 1,696 | 🐛 20 | 🌐 Python | 📅 2024-03-11 - A scripting engine to interact with a GraphQL endpoint for pentesting purposes.
 * [GraphQL wordlist](https://github.com/Escape-Technologies/graphql-wordlist) ⭐ 490 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-03 - the only GraphQL wordlist for pentesting you'll ever need. Operations, field names, type names. It was collected on more than 60k distinct GraphQL schemas.
-* [BatchQL](https://github.com/assetnote/batchql) ⭐ 423 | 🐛 5 | 🌐 Python | 📅 2022-12-24 - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
-* [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) ⭐ 373 | 🐛 9 | 📅 2025-07-01 - GraphQL threat framework to research security gaps in GraphQL implementations.
-* [CrackQL](https://github.com/nicholasaleks/CrackQL) ⭐ 352 | 🐛 0 | 🌐 Python | 📅 2024-08-03 - GraphQL password brute-force and fuzzing utility.
+* [BatchQL](https://github.com/assetnote/batchql) ⭐ 425 | 🐛 5 | 🌐 Python | 📅 2022-12-24 - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations.
+* [GraphQL Threat Matrix](https://github.com/nicholasaleks/graphql-threat-matrix) ⭐ 372 | 🐛 9 | 📅 2025-07-01 - GraphQL threat framework to research security gaps in GraphQL implementations.
+* [CrackQL](https://github.com/nicholasaleks/CrackQL) ⭐ 351 | 🐛 0 | 🌐 Python | 📅 2024-08-03 - GraphQL password brute-force and fuzzing utility.
 * [GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) ⚠️ Archived - A GraphQL automated security toolkit. Grab introspection, search for sensitive queries, and then test authorization.
 * [GraphQL.Security](https://graphql.security) - One-click quick security scan of your GraphQL endpoints. Free, no login required.
 
@@ -131,4 +131,4 @@ We believe it's time to bring more AI-driven innovation to cybersecurity, and we
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
