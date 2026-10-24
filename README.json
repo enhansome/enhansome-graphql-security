@@ -21,7 +21,7 @@
                 "open_issues": 109,
                 "owner": "maticzav",
                 "repo": "graphql-shield",
-                "stars": 3578,
+                "stars": 3577,
                 "topics": [
                   "apollo",
                   "graphql",
@@ -111,7 +111,7 @@
                 "id": 518716635,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T18:52:37Z",
+                "last_commit": "2026-10-24T17:59:54Z",
                 "open_issues": 40,
                 "owner": "Escape-Technologies",
                 "repo": "graphql-armor",
@@ -158,7 +158,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-23T08:14:56Z",
-                "open_issues": 860,
+                "open_issues": 862,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
                 "stars": 80678,
@@ -246,7 +246,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8169,
+                "stars": 8170,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -378,7 +378,7 @@
                 "open_issues": 42,
                 "owner": "nikitastupin",
                 "repo": "clairvoyance",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "bug-bounty",
                   "graphql",
@@ -637,7 +637,7 @@
                 "open_issues": 9,
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:01:07.323Z",
+    "last_updated": "2026-10-24T18:00:20.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
