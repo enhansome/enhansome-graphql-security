@@ -157,11 +157,11 @@
                 "id": 203587744,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T09:22:08Z",
+                "last_commit": "2026-10-31T09:16:29Z",
                 "open_issues": 885,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80711,
+                "stars": 80710,
                 "topics": [
                   "api",
                   "api-client",
@@ -246,7 +246,7 @@
                 "open_issues": 106,
                 "owner": "APIs-guru",
                 "repo": "graphql-voyager",
-                "stars": 8169,
+                "stars": 8172,
                 "topics": [
                   "api-documentation",
                   "graphql",
@@ -273,7 +273,7 @@
                 "open_issues": 132,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
-                "stars": 1767,
+                "stars": 1768,
                 "topics": [
                   "api",
                   "graphql",
@@ -637,7 +637,7 @@
                 "open_issues": 9,
                 "owner": "nicholasaleks",
                 "repo": "graphql-threat-matrix",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:58:51.904Z"
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:53:36.306Z",
+    "last_updated": "2026-10-31T19:11:45.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
