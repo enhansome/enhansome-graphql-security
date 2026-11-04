@@ -47,14 +47,14 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Clients and IDEs
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,732 | 🐛 884 | 🌐 TypeScript | 📅 2026-11-03 - Online REST and GraphQL client
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,746 | 🐛 886 | 🌐 TypeScript | 📅 2026-11-04 - Online REST and GraphQL client
 * [Postman](https://www.postman.com/) - An API platform for developers to design, build, test and iterate their APIs.
 * [Insomnia](https://insomnia.rest/) - Design and test GraphQL APIs with ease.
 * [Altair](https://altairgraphql.dev/) - GraphQL Client helps you debug GraphQL queries and implementations. Also distributed as a Browser Extension.
 
 ### Self-Discovery
 
-* [GraphMan](https://github.com/Escape-Technologies/graphman) ⭐ 252 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-26 - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
+* [GraphMan](https://github.com/Escape-Technologies/graphman) ⭐ 251 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-26 - Generate a complete Postman collection from a GraphQL endpoint. Allows instant and easy discovery and exploration of the API.
 
 ### Visualizers
 
@@ -67,9 +67,9 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Discovery
 
-* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,552 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
+* [Clairvoyance](https://github.com/nikitastupin/clairvoyance) ⭐ 1,553 | 🐛 42 | 🌐 Python | 📅 2025-12-05 - Patrial introspection fetcher when introspection is disabled.
 * [Graphw00f](https://github.com/dolevf/graphw00f) ⭐ 914 | 🐛 3 | 🌐 Python | 📅 2026-05-16 - GraphQL Server Engine Fingerprinting utility.
-* [Graphinder](https://github.com/Escape-Technologies/graphinder) ⭐ 229 | 🐛 6 | 🌐 Python | 📅 2023-05-22 - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
+* [Graphinder](https://github.com/Escape-Technologies/graphinder) ⭐ 228 | 🐛 6 | 🌐 Python | 📅 2023-05-22 - Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 * [Goctopus](https://github.com/Escape-Technologies/goctopus) ⭐ 135 | 🐛 3 | 🌐 Go | 📅 2023-11-21 - a GraphQL endpoint discovery and fingerprinting tool.
 * [ShapeShifter](https://github.com/szski/shapeshifter) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2022-03-31 - Schema extraction to JSON file with introspection.
 * [GraphQL Path Enum](https://gitlab.com/dee-see/graphql-path-enum) – Tool that lists the different ways of reaching a given type in a GraphQL schema.
@@ -87,7 +87,7 @@ A curated list of awesome GraphQL Security frameworks, libraries, software, and 
 
 ### Vulnerable Applications
 
-* [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) ⭐ 1,720 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24 - An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
+* [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) ⭐ 1,721 | 🐛 3 | 🌐 JavaScript | 📅 2025-05-24 - An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 
 ## Resources
 
@@ -131,4 +131,4 @@ We believe it's time to bring more AI-driven innovation to cybersecurity, and we
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
