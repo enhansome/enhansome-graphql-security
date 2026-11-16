@@ -78,7 +78,7 @@
                 "open_issues": 4,
                 "owner": "dolevf",
                 "repo": "graphql-cop",
-                "stars": 701,
+                "stars": 700,
                 "topics": [
                   "auditing",
                   "blue-team",
@@ -158,10 +158,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T08:16:25Z",
-                "open_issues": 901,
+                "open_issues": 906,
                 "owner": "hoppscotch",
                 "repo": "hoppscotch",
-                "stars": 80819,
+                "stars": 80831,
                 "topics": [
                   "api",
                   "api-client",
@@ -270,7 +270,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-13T20:51:26Z",
-                "open_issues": 131,
+                "open_issues": 132,
                 "owner": "graphql-hive",
                 "repo": "graphql-inspector",
                 "stars": 1772,
@@ -716,7 +716,7 @@
                 "open_issues": 3,
                 "owner": "dolevf",
                 "repo": "Damn-Vulnerable-GraphQL-Application",
-                "stars": 1720,
+                "stars": 1721,
                 "topics": [
                   "damn-vulnerable",
                   "damn-vulnerable-web-application",
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:16:14.855Z",
+    "last_updated": "2026-11-16T23:41:32.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GraphQL Security frameworks, libraries, software and resources",
